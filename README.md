@@ -7,7 +7,7 @@ You need to have [JDK](https://adoptopenjdk.net/) and [sbt](https://www.scala-sb
 
 ### In terminal
 ```
-sbt new bjornregnell/scala3.g8
+sbt new bjornregnell/scala2.g8
 ```
 
 ### In [VS Code](https://code.visualstudio.com/download) with [Scala (Metals)](https://scalameta.org/metals/docs/editors/vscode.html#installation)

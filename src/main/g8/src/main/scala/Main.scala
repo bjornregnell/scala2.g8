@@ -1,1 +1,3 @@
-@main def run = println("*** HELLO Scala 3! ***")
+object Main {
+  def main(args: Array[String]): Unit = println("*** Hello Scala 2! ***")
+}

@@ -1,2 +1,2 @@
-scalaVersion := "0.25.0-RC2"
+scalaVersion := "2.13.3"
 scalacOptions += "-deprecation"
